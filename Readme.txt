@@ -1,1 +1,1 @@
-Proyecto guiado del Curso .Net de microsoft consistente de un software de gestion para la calificacion de alumnos de un colegio
+Proyecto guiado del Curso C# de microsoft consistente de un software de gestion para la calificacion de alumnos de un colegio
